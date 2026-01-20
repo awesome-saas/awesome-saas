@@ -63,6 +63,7 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[feedback.tools](https://feedback.tools)** – AI-powered platform to capture, organize, and prioritize user feedback from all channels.
 
 ### Finance, Billing & Subscriptions
 
