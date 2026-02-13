@@ -132,3 +132,7 @@ We welcome contributions! If you’d like to suggest a new tool or resource:
 
 
 This list is released under the **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**. You're free to use, share, and adapt with attribution.
+
+### AI Agent Skills
+- [AfrexAI Agent Skills](https://afrexai-cto.github.io/agent-setup/) – 13 free AI agent skills for SaaS businesses: CRM, invoicing, sales, marketing, and more. Built on OpenClaw.
+- [AI Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/) – Free tool to estimate AI agent revenue potential.
