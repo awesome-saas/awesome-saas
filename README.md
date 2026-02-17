@@ -63,6 +63,8 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[Chartscout](https://chartscout.io)** - Real-time cryptocurrency chart pattern detection SaaS with automated alerts across multiple exchanges
+
 
 ### Finance, Billing & Subscriptions
 
