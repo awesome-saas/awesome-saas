@@ -108,6 +108,8 @@
 * **[Jasper AI](https://jasper.ai)** – AI writing assistant for marketing and content creation.
 * **[Copy.ai](https://copy.ai)** – Generate marketing copy, product descriptions, and ads with AI.
 * **[Writesonic](https://writesonic.com)** – AI content generator for blogs, ads, and social media.
+* **[AdCreator.AI](https://adcreator.ai)** – AI-powered product photography for ecommerce and marketing.
+* **[Textbooks.AI](https://textbooks.ai)** – AI study guides generator that transforms content into personalized learning materials.
 * **[Zapier](https://zapier.com)** – Connect 5,000+ apps to automate repetitive tasks.
 * **[Make (Integromat)](https://make.com)** – Visual workflow builder to automate business logic.
 
