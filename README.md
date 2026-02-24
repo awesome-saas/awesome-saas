@@ -29,6 +29,7 @@
 * **[Zoho CRM](https://zoho.com/crm)** – Feature-rich CRM software for businesses of all sizes.
 * **[Copper CRM](https://copper.com)** – CRM that integrates seamlessly with Google Workspace.
 * **[Close.com](https://close.com)** – Sales CRM to boost outbound communications and deals.
+* **[Suplex](https://trysuplex.com)** – All-in-one cold email and lead generation platform.
 * **[Freshsales](https://freshworks.com/freshsales)** – AI-powered CRM with 360° customer view.
 
 ### Marketing & Email Automation
