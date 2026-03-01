@@ -21,6 +21,12 @@
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
 
+## Scheduling
+
+* **[AreYouFree](https://areyoufree.uk/)** - Free group scheduling polls and booking pages, no sign-up required
+* **[When2meet](https://www.when2meet.com/)** - Free drag-to-select availability grid for finding group meeting times
+* **[Rallly](https://rallly.co/)** - Open-source scheduling tool for finding the best date for group meetings
+
 ### CRM & Sales
 
 * **[HubSpot](https://hubspot.com)** – CRM with marketing, sales, and customer service tools.
