@@ -54,6 +54,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[API Status Check](https://apistatuscheck.com)** – Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 
 ### Analytics & Insights
 
