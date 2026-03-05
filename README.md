@@ -86,6 +86,7 @@
 
 * **[Auth0](https://auth0.com)** – Identity-as-a-Service with enterprise-grade security.
 * **[Okta](https://okta.com)** – Single sign-on, MFA, and identity governance tools.
+* 
 * **[Clerk.dev](https://clerk.com)** – User management and authentication for React apps.
 * **[Firebase Auth](https://firebase.google.com/products/auth)** – Easy-to-use authentication for web and mobile apps.
 * **[AWS Cognito](https://aws.amazon.com/cognito)** – User sign-in and access control via AWS.
@@ -119,6 +120,7 @@
 * **[Altern](https://altern.ai)** – Find AI alternatives to popular software tools.
 * **[The Marketing Newsletter](https://themarketingnewsletter.org)** – Curated marketing news, insights, and tools weekly.
 * **[Marketinguys](https://marketinguys.com)** - Find a marketer for your SaaS
+* **[BeginThings](https://beginthings.com)** – 96+ free browser-based productivity tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, UTM builder, rate calculator, and more. No login required.
 
 ---
 
