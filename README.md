@@ -20,6 +20,7 @@
 * **[Slack](https://slack.com)** – Team communication with channels, DMs, and integrations.
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
+* **[HeyRobyn](https://heyrobyn.ai)** – Native Mac unified inbox for email, Slack, and GitHub in one window.
 
 ### CRM & Sales
 
