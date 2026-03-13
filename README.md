@@ -54,6 +54,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[Signbee](https://signb.ee)** – Document signing API for AI agents — MCP server + REST API for e-signing with certified delivery.
 
 ### Analytics & Insights
 
