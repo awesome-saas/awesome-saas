@@ -97,6 +97,7 @@
 * **[Shopify](https://shopify.com)** – E-commerce platform for launching online stores.
 * **[Squarespace](https://squarespace.com)** – Website builder with modern templates.
 * **[Ghost](https://ghost.org)** – Headless CMS and publishing platform.
+* **[JustBlogged](https://justblogged.com)** – No-setup blogging platform. Sign up, pick a name, start writing. Free forever, $9/mo Pro.
 * **[Strapi](https://strapi.io)** – Customizable open-source headless CMS with APIs.
 
 ### AI, Automation & No-Code Tools
