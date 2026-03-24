@@ -44,6 +44,7 @@
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
 
 ### Developer & API Tools
+* **[LaunchKit](https://github.com/huangyongshan46-a11y/launchkit-saas)** – AI-native SaaS starter kit with Next.js 16, auth, Stripe billing, OpenAI chat, and email. Open source (MIT).
 
 * **[Postman](https://postman.com)** – Collaboration platform for API testing and development.
 * **[SwaggerHub](https://swagger.io/tools/swaggerhub)** – API design and documentation collaboration suite.
