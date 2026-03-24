@@ -78,6 +78,7 @@
 * **[Intercom](https://intercom.com)** – Live chat and bots for customer engagement.
 * **[Zendesk](https://zendesk.com)** – Ticketing and support desk software for enterprises.
 * **[Freshdesk](https://freshworks.com/freshdesk)** – Omni-channel customer support software.
+* **[Knocket](https://trtc.io/solutions/knocket)** – 100% free live chat widget with 1-line integration, offline forms, social links hub, and open-source AI auto-reply agent.
 * **[Crisp.chat](https://crisp.chat)** – Multilingual live chat with shared inbox and CRM.
 * **[Tidio](https://tidio.com)** – Chatbots and live chat for boosting conversions.
 * **[LiveChat](https://livechat.com)** – Customer messaging platform with built-in analytics.
