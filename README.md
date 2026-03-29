@@ -132,3 +132,9 @@ We welcome contributions! If you’d like to suggest a new tool or resource:
 
 
 This list is released under the **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**. You're free to use, share, and adapt with attribution.
+
+### Growth Playbooks
+
+- [Product Hunt Launch Playbook](https://github.com/Gingiris/gingiris-launch) — Battle-tested launch guide from a 30x PH #1 winner. Complete SOP with KOL outreach, UGC growth, and real case studies.
+- [B2B SaaS Growth Playbook](https://github.com/Gingiris/gingiris-b2b-growth) — Full-lifecycle B2B SaaS growth guide. PMF validation to ecosystem growth with real cases from HeyGen, Deel, Vercel, Supabase.
+- [Open Source Marketing Playbook](https://github.com/Gingiris/gingiris-opensource) — GitHub star growth, developer marketing, community distribution, and Reddit marketing strategies.
