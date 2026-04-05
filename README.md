@@ -42,6 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[TestimonialFlow](https://testimonialflow-kappa.vercel.app)** – Collect customer testimonials and embed them on any website in 2 minutes.
 
 ### Developer & API Tools
 
