@@ -29,6 +29,7 @@
 * **[Zoho CRM](https://zoho.com/crm)** – Feature-rich CRM software for businesses of all sizes.
 * **[Copper CRM](https://copper.com)** – CRM that integrates seamlessly with Google Workspace.
 * **[Close.com](https://close.com)** – Sales CRM to boost outbound communications and deals.
+* **[Customermates](https://customermates.com)** – Open-source CRM with native n8n workflow automation for small B2B teams.
 * **[Freshsales](https://freshworks.com/freshsales)** – AI-powered CRM with 360° customer view.
 
 ### Marketing & Email Automation
