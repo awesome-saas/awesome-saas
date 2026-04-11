@@ -54,6 +54,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[BulkPublish](https://www.bulkpublish.com)** – Social media publishing API for 11 platforms with scheduling, analytics, and AI agent support.
 
 ### Analytics & Insights
 
