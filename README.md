@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[SaveMyChurn](https://savemychurn.com)** – AI-powered churn recovery for Stripe subscriptions. Detects at-risk subscribers and sends personalized retention offers automatically. (savemychurn.com)
 
 ### Customer Support & Live Chat
 
