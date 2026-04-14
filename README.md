@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[culta.ai](https://culta.ai)** - Multi-entity budgeting, cash flow forecasting, and burn rate tracking for startups.
 
 ### Customer Support & Live Chat
 
