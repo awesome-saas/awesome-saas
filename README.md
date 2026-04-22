@@ -10,6 +10,7 @@
 *Top Productivity Tools:* **[Awesome Productivity Tools](https://github.com/ProductivityDirectory/awesome-productivity-tools)**
 
 * **[Notion](https://www.notion.so)** – All‑in‑one workspace for docs, databases, and collaboration.
+* **[Shiplog](https://shiplog.page)** - Polished changelogs hosted on a public page (yourapp.shiplog.page). Push via CLI or Dashboard.
 * **[Trello](https://trello.com)** – Visual project management using boards, cards, and checklists.
 * **[Asana](https://asana.com)** – Workflow management tool for tracking team tasks and goals.
 * **[ClickUp](https://clickup.com)** – Productivity platform for docs, tasks, goals, and team chat.
