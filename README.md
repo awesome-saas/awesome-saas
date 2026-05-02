@@ -65,7 +65,7 @@
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
 
 ### Finance, Billing & Subscriptions
-
+* **[ByteCalculators](https://bytecalculators.com)** – Free financial forecasting engine to accurately calculate SaaS runway, gross burn rate, and AI API costs.
 * **[Stripe](https://stripe.com)** – Powerful APIs for payments, billing, and global commerce.
 * **[Paddle](https://paddle.com)** – Revenue delivery platform for SaaS with tax compliance.
 * **[Chargebee](https://chargebee.com)** – Subscription billing and revenue operations.
