@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[AI Invoice Maker](https://ainvoicemaker.com)** – Free invoice generator with AI-powered payment reminders; 50+ currencies, no signup, no watermark.
 
 ### Customer Support & Live Chat
 
