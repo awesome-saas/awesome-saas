@@ -42,6 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[Peddlum](https://peddlum.com) - SaaS marketplace where founders sell tools, creators promote them, and buyers earn rewards — 90% revenue share.
 
 ### Developer & API Tools
 
