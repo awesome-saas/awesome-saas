@@ -30,6 +30,7 @@
 * **[Copper CRM](https://copper.com)** – CRM that integrates seamlessly with Google Workspace.
 * **[Close.com](https://close.com)** – Sales CRM to boost outbound communications and deals.
 * **[Freshsales](https://freshworks.com/freshsales)** – AI-powered CRM with 360° customer view.
+* **[SalesLabel](https://sales-label.com)** – White-label outbound sales infrastructure for B2B agencies. Used by 100+ agencies to launch reseller offers.
 
 ### Marketing & Email Automation
 
