@@ -98,6 +98,7 @@
 * **[Squarespace](https://squarespace.com)** – Website builder with modern templates.
 * **[Ghost](https://ghost.org)** – Headless CMS and publishing platform.
 * **[Strapi](https://strapi.io)** – Customizable open-source headless CMS with APIs.
+* **[LinkyPO](https://linkypo.com)** – Free link-in-bio site builder for creators and small businesses with built-in SEO coach, calendar booking, and lead capture blocks.
 
 ### AI, Automation & No-Code Tools
 
