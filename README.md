@@ -81,6 +81,7 @@
 * **[Crisp.chat](https://crisp.chat)** – Multilingual live chat with shared inbox and CRM.
 * **[Tidio](https://tidio.com)** – Chatbots and live chat for boosting conversions.
 * **[LiveChat](https://livechat.com)** – Customer messaging platform with built-in analytics.
+* **[egentify](https://egentify.com)** – AI customer support agent for Shopify and WooCommerce, across chat, voice, and email.
 
 ### Authentication & Security
 
