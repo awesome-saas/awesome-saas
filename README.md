@@ -63,6 +63,7 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[MarketiStats](https://marketistats.com)** – Multi-channel marketing analytics dashboard consolidating social, SEO, outreach, affiliate, and paid ads tracking for SaaS founders.
 
 ### Finance, Billing & Subscriptions
 
