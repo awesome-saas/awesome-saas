@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[ReceiptClaimer](https://receiptclaimer.com.au)** – AI‑powered tax deduction tracking and receipt management for property investors and sole traders.
 
 ### Customer Support & Live Chat
 
