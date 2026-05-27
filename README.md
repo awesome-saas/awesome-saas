@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[InvoiceDemo](https://invoicedemo.ipmtechops.com)** – Free online invoicing for small businesses and freelancers in Latin America. Invoices, quotes, receipts and proformas with WhatsApp delivery, multi-currency, and RNC/NCF/DGII support.
 
 ### Customer Support & Live Chat
 
