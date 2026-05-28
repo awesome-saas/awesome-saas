@@ -48,8 +48,9 @@
 * **[Postman](https://postman.com)** – Collaboration platform for API testing and development.
 * **[SwaggerHub](https://swagger.io/tools/swaggerhub)** – API design and documentation collaboration suite.
 * **[RapidAPI](https://rapidapi.com)** – Hub to discover and connect with thousands of APIs.
-* **[Snyk](https://snyk.io)** – Developer-first security for code, containers, and open source.
+* **[RedirHub](https://redirhub.com)** – API-first URL redirect infrastructure with custom nameservers, edge network, and proactive link monitoring for developers.
 * **[Replit](https://replit.com)** – Browser-based IDE for live collaboration and prototyping.
+* **[Snyk](https://snyk.io)** – Developer-first security for code, containers, and open source.
 * **[GitHub Copilot](https://github.com/features/copilot)** – AI-powered code suggestions in real time.
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
