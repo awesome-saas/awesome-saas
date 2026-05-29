@@ -110,6 +110,7 @@
 * **[Writesonic](https://writesonic.com)** – AI content generator for blogs, ads, and social media.
 * **[Zapier](https://zapier.com)** – Connect 5,000+ apps to automate repetitive tasks.
 * **[Make (Integromat)](https://make.com)** – Visual workflow builder to automate business logic.
+* **[MonkeyEatingMango](https://monkeyeatingmango.com)** – Free AI travel planner that turns 8 questions into a full day-by-day itinerary with budgets, a food guide, and maps. No signup.
 
 ---
 
