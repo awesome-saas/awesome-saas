@@ -54,6 +54,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[EventDock](https://eventdock.app)** – Webhook reliability with automatic retries, dead-letter queue, and one-click replay. Free tier, 5,000 events/mo.
 
 ### Analytics & Insights
 
