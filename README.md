@@ -43,6 +43,14 @@
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
 
+### Social Media & Content Tools
+
+* **[Buffer](https://buffer.com)** – Schedule and publish posts across multiple social media accounts.
+* **[Hootsuite](https://hootsuite.com)** – Social media management platform with scheduling, monitoring, and analytics.
+* **[Later](https://later.com)** – Visual content calendar for Instagram, TikTok, and other social platforms.
+* **[Canva](https://canva.com)** – Drag-and-drop graphic design tool for social media posts, stories, and ads.
+* **[ViewIGStory](https://www.view-ig-story.com)** – Anonymous Instagram story viewer and downloader for public profiles; useful for competitor research and content inspiration without leaving a trace.
+
 ### Developer & API Tools
 
 * **[Postman](https://postman.com)** – Collaboration platform for API testing and development.
