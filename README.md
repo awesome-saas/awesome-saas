@@ -106,6 +106,7 @@
 * **[OpenAI](https://openai.com)** – AI research and tools like GPT-4 and DALL·E.
 * **[RunwayML](https://runwayml.com)** – Creative tools for generative AI in video and media.
 * **[Jasper AI](https://jasper.ai)** – AI writing assistant for marketing and content creation.
+* **[CallURL](https://callurl.com)** – Create AI phone lines for workflows, forms, events, and support.
 * **[Copy.ai](https://copy.ai)** – Generate marketing copy, product descriptions, and ads with AI.
 * **[Writesonic](https://writesonic.com)** – AI content generator for blogs, ads, and social media.
 * **[Zapier](https://zapier.com)** – Connect 5,000+ apps to automate repetitive tasks.
