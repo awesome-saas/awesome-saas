@@ -98,6 +98,7 @@
 * **[Squarespace](https://squarespace.com)** – Website builder with modern templates.
 * **[Ghost](https://ghost.org)** – Headless CMS and publishing platform.
 * **[Strapi](https://strapi.io)** – Customizable open-source headless CMS with APIs.
+* **[UnfoldCMS](https://unfoldcms.com)** – Self-hosted CMS on Laravel 12 + React 19 with REST API v1 and headless mode. One-time pricing — no subscription. ([GitHub](https://github.com/hpakdaman/unfoldcms))
 
 ### AI, Automation & No-Code Tools
 
