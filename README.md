@@ -132,3 +132,7 @@ We welcome contributions! If you’d like to suggest a new tool or resource:
 
 
 This list is released under the **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**. You're free to use, share, and adapt with attribution.
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of free tools, software, and digital resources.
