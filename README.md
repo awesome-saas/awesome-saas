@@ -81,7 +81,7 @@
 * **[Crisp.chat](https://crisp.chat)** – Multilingual live chat with shared inbox and CRM.
 * **[Tidio](https://tidio.com)** – Chatbots and live chat for boosting conversions.
 * **[LiveChat](https://livechat.com)** – Customer messaging platform with built-in analytics.
-* **[Knocket](https://trtc.io/solutions/knocket)** – Free-forever live chat widget + shareable contact page with a unified Telegram/email inbox; one-line embed, no seat limits.
+* **[Knocket](https://trtc.io/solutions/knocket?utm_campaign=github-pr&_channel_track_key=x5IR3gM9)** – Free-forever live chat widget + shareable contact page with a unified Telegram/email inbox; one-line embed, no seat limits.
 
 ### Authentication & Security
 
