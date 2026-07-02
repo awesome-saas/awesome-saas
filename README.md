@@ -60,6 +60,7 @@
 * **[Google Analytics](https://analytics.google.com)** – Measure website performance and user behavior.
 * **[Mixpanel](https://mixpanel.com)** – Real-time product analytics with deep user segmentation.
 * **[Amplitude](https://amplitude.com)** – Behavioral analytics platform to optimize product growth.
+* **[GetAppNiche](https://getappniche.com)** – App Store intelligence for iOS revenue estimates, ASO keywords, competitor ads, and reviews.
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
