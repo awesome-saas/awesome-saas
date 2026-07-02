@@ -20,6 +20,7 @@
 * **[Slack](https://slack.com)** – Team communication with channels, DMs, and integrations.
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
+* **[DocGPT.ai](https://docgpt.ai/)** – AI productivity add-ons for Google Sheets, Docs, Gmail, Slides, and Forms.
 
 ### CRM & Sales
 
