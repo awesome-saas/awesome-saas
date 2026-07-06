@@ -20,6 +20,7 @@
 * **[Slack](https://slack.com)** – Team communication with channels, DMs, and integrations.
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
+* **[Superlist](https://www.superlist.com)** – All-in-one task, notes, and to-do list app from the creators of Wunderlist.
 
 ### CRM & Sales
 
