@@ -57,6 +57,7 @@
 
 ### Analytics & Insights
 
+* **[AnswerLens](https://app.sfdj.net)** – Audits SaaS public evidence gaps before marketing, sales, or launch work.
 * **[Google Analytics](https://analytics.google.com)** – Measure website performance and user behavior.
 * **[Mixpanel](https://mixpanel.com)** – Real-time product analytics with deep user segmentation.
 * **[Amplitude](https://amplitude.com)** – Behavioral analytics platform to optimize product growth.
