@@ -72,11 +72,14 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+
 ### Legal, Compliance & Business Formation
 
 * **[LegalZoom](https://legalzoom.com)** – Online legal documents and business formation for small businesses.
 * **[ZenBusiness](https://zenbusiness.com)** – LLC formation and compliance services for entrepreneurs.
-* **[DeadlineSentry](https://deadlinesentry.com)** – Free checker for US LLC and corporation annual report deadlines, fees, and late penalties by state.### Customer Support & Live Chat
+* **[DeadlineSentry](https://deadlinesentry.com)** – Free checker for US LLC and corporation annual report deadlines, fees, and late penalties by state.
+
+### Customer Support & Live Chat
 
 * **[Intercom](https://intercom.com)** – Live chat and bots for customer engagement.
 * **[Zendesk](https://zendesk.com)** – Ticketing and support desk software for enterprises.
