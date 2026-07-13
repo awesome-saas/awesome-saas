@@ -20,6 +20,7 @@
 * **[Slack](https://slack.com)** – Team communication with channels, DMs, and integrations.
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
+* **[PuchiDen](https://puchiden.app)** – Browser-based international calling to 180+ countries with pay-per-minute pricing.
 
 ### CRM & Sales
 
@@ -42,6 +43,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[Kafkai](https://kafkai.com)** – Competitive intelligence platform that tracks competitor rankings, keywords, and content gaps.
 
 ### Developer & API Tools
 
@@ -54,6 +56,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[KaiMail](https://kaimail.net)** – Custom domain email with forwarding, webhooks, and SMTP sending for developers.
 
 ### Analytics & Insights
 
