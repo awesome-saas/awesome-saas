@@ -119,6 +119,7 @@
 * **[Altern](https://altern.ai)** – Find AI alternatives to popular software tools.
 * **[The Marketing Newsletter](https://themarketingnewsletter.org)** – Curated marketing news, insights, and tools weekly.
 * **[Marketinguys](https://marketinguys.com)** - Find a marketer for your SaaS
+* **[Stack Insider](https://stack-insider.com)** – SaaS tool reviews with AI features analysis, Agent Readiness Scores, and AI workflow guides.
 
 ---
 
