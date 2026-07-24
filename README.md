@@ -63,6 +63,7 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[Apstal](https://apstal.com)** – AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 100K events/month.
 
 ### Finance, Billing & Subscriptions
 
