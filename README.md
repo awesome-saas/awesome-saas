@@ -31,6 +31,8 @@
 * **[Close.com](https://close.com)** – Sales CRM to boost outbound communications and deals.
 * **[Freshsales](https://freshworks.com/freshsales)** – AI-powered CRM with 360° customer view.
 
+* **[Crawlbench](https://crawlbench.com/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-saas&utm_content=pr)** – Facebook Marketplace monitoring with filters and email/Telegram match alerts for dealers and flippers.
+
 ### Marketing & Email Automation
 
 *Top Marketing Tools:* **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**
