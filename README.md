@@ -104,6 +104,7 @@
 *More:* **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**, **[Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation)**
 
 * **[OpenAI](https://openai.com)** – AI research and tools like GPT-4 and DALL·E.
+* **[GPTGeminiGrok.AI](https://trygrokai.asia)** - Browser-based workspace for chatting with GPT, Gemini, and Grok models with a 10-request daily free quota.
 * **[RunwayML](https://runwayml.com)** – Creative tools for generative AI in video and media.
 * **[Jasper AI](https://jasper.ai)** – AI writing assistant for marketing and content creation.
 * **[Copy.ai](https://copy.ai)** – Generate marketing copy, product descriptions, and ads with AI.
