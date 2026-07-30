@@ -81,6 +81,7 @@
 * **[Crisp.chat](https://crisp.chat)** – Multilingual live chat with shared inbox and CRM.
 * **[Tidio](https://tidio.com)** – Chatbots and live chat for boosting conversions.
 * **[LiveChat](https://livechat.com)** – Customer messaging platform with built-in analytics.
+* **[Workforce Wave](https://www.workforcewave.com)** – AI voice agent for 24/7 call answering, appointment booking, and lead capture for SMBs.
 
 ### Authentication & Security
 
