@@ -30,6 +30,7 @@
 * **[Copper CRM](https://copper.com)** – CRM that integrates seamlessly with Google Workspace.
 * **[Close.com](https://close.com)** – Sales CRM to boost outbound communications and deals.
 * **[Freshsales](https://freshworks.com/freshsales)** – AI-powered CRM with 360° customer view.
+* **[Funding Signals](https://fundingsignals.net)** – Scored B2B leads from public SEC Form D filings — know which companies just raised funding before it's public news.
 
 ### Marketing & Email Automation
 
