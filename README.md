@@ -42,6 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[Autoposting](https://autoposting.ai)** – AI social media manager that writes in your brand voice, clips video, and schedules to five networks.
 
 ### Developer & API Tools
 
