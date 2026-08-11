@@ -42,6 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[Postqued](https://postqued.com)** – Social media workspace for teams and AI agents to plan, schedule, publish, analyze, and manage comments across 10 networks, with API, CLI, and MCP integrations.
 
 ### Developer & API Tools
 
