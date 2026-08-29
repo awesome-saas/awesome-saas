@@ -44,6 +44,7 @@
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
 
 ### Developer & API Tools
+* **[Canopy](https://canopy.8starlabs.com/)** - Living architecture maps for engineering teams, with GitHub imports, dependencies, ownership, cost context, and AI-ready exports.
 
 * **[Postman](https://postman.com)** – Collaboration platform for API testing and development.
 * **[SwaggerHub](https://swagger.io/tools/swaggerhub)** – API design and documentation collaboration suite.
