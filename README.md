@@ -35,6 +35,7 @@
 
 *Top Marketing Tools:* **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**
 
+* **[BulkPublish](https://www.bulkpublish.com)** – API and MCP server for AI agents to plan, review, schedule, publish, and analyze social media content across connected channels.
 * **[Mailchimp](https://mailchimp.com)** – Email marketing with automation and landing pages.
 * **[ConvertKit](https://convertkit.com)** – Email platform for creators and digital marketers.
 * **[ActiveCampaign](https://activecampaign.com)** – Customer experience automation with email, CRM, and SMS.
