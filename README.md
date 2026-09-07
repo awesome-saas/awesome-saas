@@ -64,6 +64,10 @@
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
 
+### Domain Monitoring
+
+* **[Vacato](https://vacato.io)** - RDAP domain availability watchlist with Telegram/email/Slack alerts; free 10 domains (not a drop-catcher).
+
 ### Finance, Billing & Subscriptions
 
 * **[Stripe](https://stripe.com)** – Powerful APIs for payments, billing, and global commerce.
