@@ -132,3 +132,4 @@ We welcome contributions! If you’d like to suggest a new tool or resource:
 
 
 This list is released under the **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**. You're free to use, share, and adapt with attribution.
+* **[iLook](https://www.ilook.fit/)** – Free web-based visual analysis that turns an uploaded image into clear style and appearance insights with practical recommendations.
