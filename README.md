@@ -116,6 +116,7 @@
 ## 📄 Additional Resources
 
 * **[Awesome SaaS Directories](https://github.com/mahseema/awesome-saas-directories)** – Curated list of SaaS directories and discovery platforms.
+* **[SaaS Launch Directories Explorer](https://themerchcog.github.io/saas-launch-directories-2026/)** – Interactive directory explorer and DoFollow backlink verification tools for SaaS and AI founders.
 * **[Altern](https://altern.ai)** – Find AI alternatives to popular software tools.
 * **[The Marketing Newsletter](https://themarketingnewsletter.org)** – Curated marketing news, insights, and tools weekly.
 * **[Marketinguys](https://marketinguys.com)** - Find a marketer for your SaaS
