@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)** – Free browser-only freelance invoice, quote, and receipt generators (no signup).
 
 ### Customer Support & Live Chat
 
