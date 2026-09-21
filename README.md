@@ -117,6 +117,7 @@
 
 * **[Awesome SaaS Directories](https://github.com/mahseema/awesome-saas-directories)** – Curated list of SaaS directories and discovery platforms.
 * **[Altern](https://altern.ai)** – Find AI alternatives to popular software tools.
+* **[FieldServiceScout](https://www.fieldservicescout.com/)** – Independent comparisons of field-service / FSM software (Jobber, Housecall Pro, ServiceTitan peers) for trade shops.
 * **[The Marketing Newsletter](https://themarketingnewsletter.org)** – Curated marketing news, insights, and tools weekly.
 * **[Marketinguys](https://marketinguys.com)** - Find a marketer for your SaaS
 
