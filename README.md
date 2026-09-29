@@ -30,6 +30,7 @@
 * **[Copper CRM](https://copper.com)** – CRM that integrates seamlessly with Google Workspace.
 * **[Close.com](https://close.com)** – Sales CRM to boost outbound communications and deals.
 * **[Freshsales](https://freshworks.com/freshsales)** – AI-powered CRM with 360° customer view.
+* **[CRMlead](https://crmlead.io/?lang=en)** – Lead-focused CRM for small businesses, free up to 50 leads.
 
 ### Marketing & Email Automation
 
