@@ -35,6 +35,7 @@
 
 *Top Marketing Tools:* **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**
 
+* **[Power CM Partners](https://partners.powercm-software.com/):** Free, nonexclusive software partner network for creating tracked campaigns and monitoring visits, attributed registrations, verified sales, and commissions.
 * **[Mailchimp](https://mailchimp.com)** – Email marketing with automation and landing pages.
 * **[ConvertKit](https://convertkit.com)** – Email platform for creators and digital marketers.
 * **[ActiveCampaign](https://activecampaign.com)** – Customer experience automation with email, CRM, and SMS.
