@@ -42,6 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[trustproovr](https://trustproovr.lol)** – Testimonial collection widget that asks engaged users at the right moment, drafts their words from real usage, and renders approved proof in your brand.
 
 ### Developer & API Tools
 
