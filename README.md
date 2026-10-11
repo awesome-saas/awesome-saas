@@ -20,6 +20,7 @@
 * **[Slack](https://slack.com)** – Team communication with channels, DMs, and integrations.
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
+* **[Tale](https://tale.dev)** – Open-source project workspace for teams and AI agents to share project tasks, context, files, and reviewed deliverables.
 
 ### CRM & Sales
 
