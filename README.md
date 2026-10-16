@@ -110,6 +110,7 @@
 * **[Writesonic](https://writesonic.com)** – AI content generator for blogs, ads, and social media.
 * **[Zapier](https://zapier.com)** – Connect 5,000+ apps to automate repetitive tasks.
 * **[Make (Integromat)](https://make.com)** – Visual workflow builder to automate business logic.
+* **[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)** – Ficory LLC의 AI 만화 번역기는 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop형 편집기, 개인 작업 흐름용 API와 모든 지원 언어를 제공하는 기업급 만화 리더입니다.
 
 ---
 
