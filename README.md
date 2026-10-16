@@ -70,6 +70,7 @@
 * **[Paddle](https://paddle.com)** – Revenue delivery platform for SaaS with tax compliance.
 * **[Chargebee](https://chargebee.com)** – Subscription billing and revenue operations.
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
+* **[Swipe Again](https://swipeagain.com)** – Failed-payment recovery for subscription businesses: decline-code-aware retries, branded dunning, and cancel deflection for Stripe, Shopify and other billing platforms.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
 
