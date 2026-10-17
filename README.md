@@ -54,6 +54,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[CurlShot](https://curlshot.com)** – Screenshot API: send a URL, HTML or Markdown and get a PNG, JPEG, WebP, PDF or scrolling video back. Free plan with 100 screenshots a month.
 
 ### Analytics & Insights
 
