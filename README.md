@@ -54,6 +54,7 @@
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
+* **[Vectoree](https://vectoree.ai)** – Give your coding agent a backend — models, auth, database and storage in one cloud.
 
 ### Analytics & Insights
 
