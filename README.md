@@ -92,6 +92,8 @@
 
 ### CMS & E-Commerce
 
+* **[Icybiz](https://icybiz.com/)** – Free visual website builder with hosting, stable page addresses, and optional forums.
+
 * **[Webflow](https://webflow.com)** – Visual builder for fully responsive websites.
 * **[Wix](https://wix.com)** – Code-free site builder with advanced features.
 * **[Shopify](https://shopify.com)** – E-commerce platform for launching online stores.
