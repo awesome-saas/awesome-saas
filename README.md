@@ -53,6 +53,7 @@
 * **[GitHub Copilot](https://github.com/features/copilot)** – AI-powered code suggestions in real time.
 * **[GitLab](https://gitlab.com)** – DevOps platform for code management, CI/CD, and security.
 * **[Vercel](https://vercel.com)** – Front-end hosting and deployment optimized for Next.js.
+* **[ScreenshotRun](https://screenshotrun.com)** – Screenshot API for capturing web pages, generating PDFs, and HTML-to-image conversions.
 * **[Netlify](https://netlify.com)** – Jamstack hosting, edge functions, and global deployment.
 
 ### Analytics & Insights
