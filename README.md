@@ -63,6 +63,7 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[WatchCron](https://watchcron.com)** – Cron job monitoring service that alerts when scheduled tasks fail or run late.
 
 ### Finance, Billing & Subscriptions
 
