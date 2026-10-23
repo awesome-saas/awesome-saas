@@ -108,6 +108,7 @@
 * **[Jasper AI](https://jasper.ai)** – AI writing assistant for marketing and content creation.
 * **[Copy.ai](https://copy.ai)** – Generate marketing copy, product descriptions, and ads with AI.
 * **[Writesonic](https://writesonic.com)** – AI content generator for blogs, ads, and social media.
+* **[KiloPlume](https://kiloplume.com)** – Content ideas generator providing weekly topics and structured briefs drawn from your business and news.
 * **[Zapier](https://zapier.com)** – Connect 5,000+ apps to automate repetitive tasks.
 * **[Make (Integromat)](https://make.com)** – Visual workflow builder to automate business logic.
 
