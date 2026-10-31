@@ -63,6 +63,7 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[Vaneform](https://vaneform.com)** – Free website traffic lookup: estimated visits, sources, countries and similar sites for any domain.
 
 ### Finance, Billing & Subscriptions
 
