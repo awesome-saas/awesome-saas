@@ -113,6 +113,7 @@
 
 ---
 
+* **[MeetNewAI](https://meetnewai.com)** – Free directory of new AI tools, AI games, and MCP servers by job-to-be-done.
 ## 📄 Additional Resources
 
 * **[Awesome SaaS Directories](https://github.com/mahseema/awesome-saas-directories)** – Curated list of SaaS directories and discovery platforms.
