@@ -58,6 +58,7 @@
 ### Analytics & Insights
 
 * **[Google Analytics](https://analytics.google.com)** – Measure website performance and user behavior.
+* **[twtData](https://twtdata.com/download-twitter-followers/)** – Export the followers of a public X (Twitter) account to CSV for audience research.
 * **[Mixpanel](https://mixpanel.com)** – Real-time product analytics with deep user segmentation.
 * **[Amplitude](https://amplitude.com)** – Behavioral analytics platform to optimize product growth.
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
