@@ -101,11 +101,11 @@
 
 ### AI, Automation & No-Code Tools
 
-
 *More:* **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**, **[Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation)**
 
 * **[OpenAI](https://openai.com)** – AI research and tools like GPT-4 and DALL·E.
 * **[RunwayML](https://runwayml.com)** – Creative tools for generative AI in video and media.
+* **[Vidmoat](https://www.vidmoat.com)** – Hosted AI video editor: describe the edit in chat, review it on a real timeline, render MP4.
 * **[Jasper AI](https://jasper.ai)** – AI writing assistant for marketing and content creation.
 * **[Copy.ai](https://copy.ai)** – Generate marketing copy, product descriptions, and ads with AI.
 * **[Writesonic](https://writesonic.com)** – AI content generator for blogs, ads, and social media.
