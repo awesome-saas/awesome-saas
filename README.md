@@ -21,6 +21,8 @@
 * **[Microsoft Teams](https://teams.microsoft.com)** – Group chat, meetings, and collaboration in Office 365.
 * **[Google Workspace](https://workspace.google.com)** – Gmail, Docs, Drive, and Meet in one suite.
 
+* **[Novastart](https://novastart.com/)** – Infinite canvas whiteboard OS for apps, shared canvases, and AI agents.
+
 ### CRM & Sales
 
 * **[HubSpot](https://hubspot.com)** – CRM with marketing, sales, and customer service tools.
