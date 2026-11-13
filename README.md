@@ -78,6 +78,7 @@
 * **[Intercom](https://intercom.com)** – Live chat and bots for customer engagement.
 * **[Zendesk](https://zendesk.com)** – Ticketing and support desk software for enterprises.
 * **[Freshdesk](https://freshworks.com/freshdesk)** – Omni-channel customer support software.
+* **[FeedLog](https://feedlog.ai/)** – Open-source AI customer support platform for SaaS teams.
 * **[Crisp.chat](https://crisp.chat)** – Multilingual live chat with shared inbox and CRM.
 * **[Tidio](https://tidio.com)** – Chatbots and live chat for boosting conversions.
 * **[LiveChat](https://livechat.com)** – Customer messaging platform with built-in analytics.
