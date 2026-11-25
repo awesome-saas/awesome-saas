@@ -63,6 +63,7 @@
 * **[Heap](https://heap.io)** – Auto-track user behavior without writing code.
 * **[Matomo](https://matomo.org)** – Privacy-respecting alternative to Google Analytics.
 * **[PostHog](https://posthog.com)** – Open-source analytics with session recording and feature flags.
+* **[MoneyPeel](https://moneypeel.com)** – Revenue, traffic and keyword teardowns of 700+ profitable SaaS and AI products, queryable over MCP.
 
 ### Finance, Billing & Subscriptions
 
